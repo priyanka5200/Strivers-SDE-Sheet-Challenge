@@ -41,4 +41,12 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
