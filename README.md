@@ -21,12 +21,14 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
@@ -58,4 +61,8 @@
 |  |
 | ------- |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
