@@ -22,5 +22,7 @@ public:
             arr[i] = mp[arr[i]];
         }
         return arr;
+        //Sorting takes O(n log n) Building the HashMap takes O(n)
+          //  Transforming the array takes O(n)
     }
 };
