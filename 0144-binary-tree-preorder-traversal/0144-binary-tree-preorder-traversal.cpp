@@ -12,28 +12,26 @@
  */
 class Solution {
 public:
-    vector<int> ans;
-    void preOrder(TreeNode* root) {
-        if (root == nullptr) {
-            return;
-        }
-        if (root != nullptr) {
-            ans.push_back(root->val);
-        }
-
-        if (root->left != nullptr) {
-            preOrder(root->left);
-        }
-        if (root->right != nullptr) {
-            preOrder(root->right);
-        }
-        return;
-    }
     vector<int> preorderTraversal(TreeNode* root) {
+        stack<TreeNode*> s;
+        vector<int> ans;
 
-        preOrder(root);
+        if (root == nullptr) {
+            return ans;
+        }
+        s.push(root);
+        while (!s.empty()) {
+            auto node = s.top();
+            s.pop();
 
+            ans.push_back(node->val);
+            if (node->right) {
+                s.push(node->right);
+            }
+            if (node->left) {
+                s.push(node->left);
+            }
+        }
         return ans;
     }
-    //tc = O(3n) n= number of nodes
 };
