@@ -78,6 +78,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -101,6 +102,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -109,4 +111,5 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
