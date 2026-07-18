@@ -44,6 +44,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
@@ -95,11 +96,13 @@
 | [0543-diameter-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Hash Table
 |  |
@@ -139,4 +142,8 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0543-diameter-of-binary-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
