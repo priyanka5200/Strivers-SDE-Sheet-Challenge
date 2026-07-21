@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0802-find-eventual-safe-states) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
