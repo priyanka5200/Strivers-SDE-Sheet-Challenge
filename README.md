@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
@@ -159,4 +160,12 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## String
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
