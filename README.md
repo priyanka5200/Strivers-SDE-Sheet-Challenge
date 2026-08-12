@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
@@ -85,6 +86,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
