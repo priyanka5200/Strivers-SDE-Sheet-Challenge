@@ -32,6 +32,7 @@
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
