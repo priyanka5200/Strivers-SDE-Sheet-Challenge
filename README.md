@@ -32,6 +32,7 @@
 | [0001-two-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0088-merge-sorted-array) |
@@ -90,6 +91,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
