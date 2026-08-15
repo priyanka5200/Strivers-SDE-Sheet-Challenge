@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0509-fibonacci-number) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0074-search-a-2d-matrix) |
@@ -91,6 +93,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0221-maximal-square) |
