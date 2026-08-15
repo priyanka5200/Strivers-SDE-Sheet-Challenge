@@ -45,6 +45,7 @@
 | [0136-single-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0283-move-zeroes) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -161,6 +163,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -239,4 +242,12 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
