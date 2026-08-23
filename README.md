@@ -104,6 +104,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -144,6 +145,7 @@
 | [0088-merge-sorted-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -181,6 +183,7 @@
 | [0073-set-matrix-zeroes](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -231,6 +234,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0038-count-and-say) |
+| [0451-sort-characters-by-frequency](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -263,8 +267,13 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0229-majority-element-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
