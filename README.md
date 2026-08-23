@@ -50,6 +50,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0229-majority-element-ii) |
@@ -74,6 +75,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0300-longest-increasing-subsequence) |
