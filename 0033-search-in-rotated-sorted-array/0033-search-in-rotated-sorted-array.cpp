@@ -1,7 +1,7 @@
 class Solution {
 public:
-    int binarySearch(vector<int>& nums, int target, int lo, int hi) {
-        int low = lo, high = hi;
+    int binarySearch(vector<int>& nums, int target, int low, int high) {
+       // int low = lo, high = hi;
         while (low <= high) {
             int mid = high - (high - low) / 2;
             if (nums[mid] == target) {
