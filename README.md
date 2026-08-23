@@ -36,6 +36,7 @@
 | [0015-3sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0054-spiral-matrix) |
@@ -69,6 +70,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
