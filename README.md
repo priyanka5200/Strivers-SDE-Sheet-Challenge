@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0242-valid-anagram) |
@@ -307,4 +309,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
