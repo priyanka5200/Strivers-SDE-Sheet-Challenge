@@ -72,6 +72,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1020-number-of-enclaves) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -106,6 +107,7 @@
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
@@ -114,6 +116,7 @@
 | [0130-surrounded-regions](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -135,6 +138,7 @@
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
@@ -210,6 +214,7 @@
 | [0547-number-of-provinces](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0802-find-eventual-safe-states) |
+| [1020-number-of-enclaves](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
