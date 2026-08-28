@@ -243,6 +243,7 @@
 | [0242-valid-anagram](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0904-fruit-into-baskets) |
@@ -304,6 +305,7 @@
 | [0038-count-and-say](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1021-remove-outermost-parentheses) |
@@ -315,6 +317,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
