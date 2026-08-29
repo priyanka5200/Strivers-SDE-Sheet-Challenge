@@ -80,6 +80,7 @@
 | [1020-number-of-enclaves](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -328,6 +329,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -340,6 +342,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Quicksort
 |  |
 | ------- |
