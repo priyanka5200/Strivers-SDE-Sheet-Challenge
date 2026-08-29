@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -77,6 +78,7 @@
 | [0994-rotting-oranges](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1020-number-of-enclaves) |
+| [1248-count-number-of-nice-subarrays](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -249,6 +251,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -323,6 +326,7 @@
 | [0904-fruit-into-baskets](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
@@ -335,6 +339,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 ## Quicksort
 |  |
 | ------- |
