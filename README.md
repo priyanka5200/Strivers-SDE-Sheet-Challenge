@@ -413,4 +413,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0347-top-k-frequent-elements) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
