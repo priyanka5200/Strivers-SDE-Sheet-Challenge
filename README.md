@@ -223,6 +223,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
@@ -284,6 +285,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -299,6 +301,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0543-diameter-of-binary-tree) |
 ## Topological Sort
 |  |
@@ -318,6 +321,7 @@
 | [0076-minimum-window-substring](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0796-rotate-string) |
@@ -417,4 +421,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
