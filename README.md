@@ -83,6 +83,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -101,6 +102,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
