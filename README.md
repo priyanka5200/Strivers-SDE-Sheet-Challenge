@@ -73,6 +73,7 @@
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0992-subarrays-with-k-different-integers) |
@@ -98,6 +99,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0300-longest-increasing-subsequence) |
+| [0875-koko-eating-bananas](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
