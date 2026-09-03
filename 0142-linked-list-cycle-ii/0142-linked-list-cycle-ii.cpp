@@ -9,17 +9,17 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        unordered_set<ListNode*>st;
+        set<ListNode*>st;
         ListNode* cur  = head;
 
-        while(cur != NULL)
+        while(cur != nullptr)
         {
             if(st.find(cur) != st.end())
             {
                 return cur;
             }
             st.insert(cur);
-            cur = cur->next;
+            cur=cur->next;
         }
         return NULL;
         
