@@ -10,30 +10,53 @@
  */
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.size()==0)return NULL;
-        priority_queue<pair<int,ListNode*>,vector<pair<int,ListNode*>>,greater<pair<int,ListNode*>>>pq;
+     ListNode* mergeSort(ListNode* l1, ListNode* l2)
+     {
+        if(l1 == NULL)return l2;
+        if(l2 == NULL)return l1;
         ListNode* dummyHead = new ListNode(-1);
-        ListNode* dummyTail = dummyHead;
+        ListNode* ptr = dummyHead;
 
-        for(auto head : lists)
+        while(l1 != NULL && l2 != NULL)
         {
-            if(head != NULL)
-            pq.push({head->val, head});
-        }
-
-        while(!pq.empty())
-        {
-            auto minindex = pq.top().second;
-            pq.pop();
-            if(minindex->next != NULL){
-                pq.push({minindex->next->val, minindex->next});
+            if(l1->val < l2->val)
+            {
+                ptr->next = l1;
+                l1 = l1->next;
             }
-            dummyTail->next = minindex;
-            dummyTail= dummyTail->next;
+            else
+            {
+                ptr->next = l2;
+                l2 = l2->next;
+            }
+            ptr = ptr->next;
+        }
+        if(l1 != NULL)
+        {
+            ptr->next = l1;
+        }
+        else
+        {
+            ptr->next = l2;
         }
         return dummyHead->next;
+     }
+    ListNode* divide(vector<ListNode*>& lists,int si, int ei)
+    {
+       if(si > ei)return NULL;
+       if(si == ei)return lists[si]; 
+        int mid = (si + ei)/2;
 
-       
+        ListNode* l1 = divide(lists, si, mid);
+        ListNode* l2 = divide(lists, mid+1, ei);
+
+        return mergeSort(l1, l2);
+
+    }
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        if(lists.size()==0)return NULL;
+
+        return divide(lists, 0, lists.size()-1);
+        
     }
 };
