@@ -141,6 +141,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0148-sort-list) |
@@ -215,6 +217,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
@@ -422,6 +425,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0148-sort-list) |
 ## Quickselect
 |  |
@@ -435,4 +439,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0257-binary-tree-paths) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
