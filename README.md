@@ -84,6 +84,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -131,6 +132,7 @@
 | [0802-find-eventual-safe-states](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
@@ -164,6 +166,7 @@
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
