@@ -76,6 +76,7 @@
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0930-binary-subarrays-with-sum) |
@@ -293,6 +294,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -395,6 +397,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Counting
 |  |
