@@ -93,6 +93,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -297,6 +298,7 @@
 | [0735-asteroid-collision](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
@@ -471,4 +473,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0802-find-eventual-safe-states) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
