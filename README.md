@@ -84,6 +84,7 @@
 | [0875-koko-eating-bananas](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0930-binary-subarrays-with-sum) |
+| [0980-unique-paths-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1004-max-consecutive-ones-iii) |
@@ -171,6 +172,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
+| [0980-unique-paths-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -384,6 +386,7 @@
 | ------- |
 | [0136-single-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
+| [0980-unique-paths-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0980-unique-paths-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -464,6 +467,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0257-binary-tree-paths) |
+| [0980-unique-paths-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0980-unique-paths-iii) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -488,4 +492,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0062-unique-paths) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
