@@ -360,6 +360,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1903-largest-odd-number-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -401,6 +402,7 @@
 | [0054-spiral-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
