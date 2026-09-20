@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0509-fibonacci-number) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -479,4 +481,8 @@
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2104-sum-of-subarray-ranges) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
