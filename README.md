@@ -52,6 +52,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0054-spiral-matrix) |
@@ -161,6 +162,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0063-unique-paths-ii) |
@@ -275,6 +277,7 @@
 | [0001-two-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0141-linked-list-cycle) |
@@ -466,6 +469,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0037-sudoku-solver) |
 | [0257-binary-tree-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0257-binary-tree-paths) |
 | [0980-unique-paths-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0980-unique-paths-iii) |
 ## Tournament Sort
@@ -496,4 +500,12 @@
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0980-unique-paths-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
