@@ -30,6 +30,7 @@
 | [0152-maximum-product-subarray](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1463-cherry-pickup-ii) |
@@ -82,6 +83,7 @@
 | [0283-move-zeroes](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0560-subarray-sum-equals-k) |
@@ -516,4 +518,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0037-sudoku-solver) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
