@@ -32,6 +32,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1463-cherry-pickup-ii) |
@@ -87,6 +88,7 @@
 | [0347-top-k-frequent-elements](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
@@ -484,6 +486,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0037-sudoku-solver) |
 | [0257-binary-tree-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0980-unique-paths-iii) |
 ## Tournament Sort
 |  |
@@ -526,10 +529,12 @@
 | ------- |
 | [0322-coin-change](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
