@@ -34,6 +34,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1463-cherry-pickup-ii) |
@@ -380,6 +381,7 @@
 | [0257-binary-tree-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1143-longest-common-subsequence) |
