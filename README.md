@@ -38,6 +38,7 @@
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1463-cherry-pickup-ii) |
 ## Recursion
 |  |
@@ -387,6 +388,7 @@
 | [0796-rotate-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
