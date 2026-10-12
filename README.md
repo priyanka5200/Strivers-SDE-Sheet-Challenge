@@ -36,6 +36,7 @@
 | [0509-fibonacci-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1463-cherry-pickup-ii) |
 ## Recursion
@@ -382,6 +383,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1143-longest-common-subsequence) |
@@ -546,5 +548,6 @@
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
