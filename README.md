@@ -35,6 +35,7 @@
 | [0494-target-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
+| [1143-longest-common-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1463-cherry-pickup-ii) |
 ## Recursion
 |  |
@@ -381,6 +382,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -539,4 +541,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
