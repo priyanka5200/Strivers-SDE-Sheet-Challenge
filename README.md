@@ -19,6 +19,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0063-unique-paths-ii) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0234-palindrome-linked-list) |
@@ -378,6 +380,7 @@
 | [0013-roman-to-integer](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0151-reverse-words-in-a-string) |
@@ -464,6 +467,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0044-wildcard-matching) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
