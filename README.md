@@ -572,4 +572,8 @@
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/3886-sum-of-sortable-integers) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
