@@ -1,24 +1,28 @@
 class Solution {
 public:
+    // int f(int ind, int prev_ind, int len, vector<int> nums,
+    //       vector<vector<int>>& dp) {
+    //     if (ind == nums.size())
+    //         return 0;
+    //     if (dp[ind][prev_ind + 1] != -1)
+    //         return dp[ind][prev_ind + 1];
+    //     len = 0 + f(ind + 1, prev_ind, len, nums, dp);
+    //     if (prev_ind == -1 || nums[ind] > nums[prev_ind])
+    //         len = max(len, 1 + f(ind + 1, ind, len, nums, dp));
+    //     return dp[ind][prev_ind + 1] = len;
+    // }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n, 1);
-        int max = 0;
-        int omax = 0;
+        vector<vector<int>>dp(n + 1, vector<int>(n + 1, 0));
+        for (int ind = n - 1; ind >= 0; ind--) {
+            for (int prev_ind = ind - 1; prev_ind >= -1; prev_ind--) {
+                int len = 0 + dp[ind + 1][prev_ind+1];
+                if (prev_ind == -1 || nums[ind] > nums[prev_ind])
+                    len = max(len, 1 + dp[ind + 1][ind+1]);
 
-        for (int i = 0; i < n; i++) {
-            max = 0;
-            for (int j = 0; j < i; j++) {
-                if (nums[i] > nums[j]) {
-                    if (max < dp[j])
-                        max = dp[j];
-                }
-            }
-            dp[i] = max + 1;
-            if (omax < dp[i]) {
-                omax = dp[i];
+                dp[ind][prev_ind + 1] = len;
             }
         }
-        return omax;
+        return dp[0][-1 + 1];
     }
 };
