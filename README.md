@@ -290,6 +290,7 @@
 | [0257-binary-tree-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0547-number-of-provinces) |
+| [0563-binary-tree-tilt](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0563-binary-tree-tilt) |
 | [0733-flood-fill](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1020-number-of-enclaves) |
@@ -356,6 +357,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0563-binary-tree-tilt) |
 ## Binary Tree
 |  |
 | ------- |
@@ -372,6 +374,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0563-binary-tree-tilt) |
 ## Topological Sort
 |  |
 | ------- |
@@ -505,6 +508,7 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0563-binary-tree-tilt) |
 ## Backtracking
 |  |
 | ------- |
