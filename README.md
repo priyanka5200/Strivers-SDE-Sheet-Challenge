@@ -20,6 +20,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0062-unique-paths) |
@@ -228,6 +229,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -391,6 +393,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0038-count-and-say) |
@@ -583,4 +586,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0300-longest-increasing-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
