@@ -37,6 +37,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0494-target-sum) |
@@ -102,6 +103,7 @@
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0416-partition-equal-subset-sum) |
