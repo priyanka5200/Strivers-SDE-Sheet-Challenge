@@ -49,6 +49,7 @@
 | [1143-longest-common-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2104-sum-of-subarray-ranges) |
@@ -268,6 +270,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [1048-longest-string-chain](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1331-rank-transform-of-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/3886-sum-of-sortable-integers) |
