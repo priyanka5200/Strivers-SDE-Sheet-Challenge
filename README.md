@@ -98,6 +98,7 @@
 | [0189-rotate-array](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0268-missing-number) |
