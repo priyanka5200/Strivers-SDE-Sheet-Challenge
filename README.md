@@ -47,6 +47,7 @@
 | [0542-01-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/0647-palindromic-substrings) |
+| [1043-partition-array-for-maximum-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -125,6 +126,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1020-number-of-enclaves) |
+| [1043-partition-array-for-maximum-sum](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
