@@ -52,6 +52,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1745-palindrome-partitioning-iv](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1745-palindrome-partitioning-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -428,6 +429,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1745-palindrome-partitioning-iv](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1745-palindrome-partitioning-iv) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/priyanka5200/Strivers-SDE-Sheet-Challenge/tree/master/3498-reverse-degree-of-a-string) |
